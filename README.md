@@ -46,15 +46,3 @@
 负面关键词：
 ...
 ```
-
-## GitHub 上传
-
-上传到 GitHub 时，保留这个文件夹结构即可：
-
-```text
-买家秀/
-  SKILL.md
-  readme.md
-```
-
-后续在支持 Codex skills 的环境里安装或同步该文件夹后，即可通过“买家秀”这个 skill 名称调用。
